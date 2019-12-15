@@ -1,0 +1,11 @@
+{
+  "name": "btcstat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "WhoMeNope",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}
